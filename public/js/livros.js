@@ -1,7 +1,7 @@
    //GET - READ
    function buscarDados() {
     
-    fetch(`http://localhost:3000/livros/`, { 
+    fetch(`livros/`, { 
     })
       .then((response) => response.json())
       .then((data) => {
@@ -36,7 +36,7 @@
 function deletar(id){
   // const id = document.getElementById("id_busca").value
 
-  fetch(`http://localhost:3000/livros/${id}`, {
+  fetch(`livros/${id}`, {
     method: "DELETE",
 }).then((response) => response.json());
 }
