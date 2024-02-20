@@ -2,7 +2,7 @@
   function buscarDados() {
     const id = document.getElementById("id_busca").value;
 
-    fetch(`http://localhost:3000/livros/${id}`, { 
+    fetch(`livros/${id}`, { 
       method: "GET",
     })
       .then((response) => response.json())
@@ -59,7 +59,7 @@ function att() {
   console.log(nome)
 
 
-  fetch(`http://localhost:3000/livros/${id}`, {
+  fetch(`livros/${id}`, {
   method: "PUT",
   headers: {
       "Content-Type": "application/json",
