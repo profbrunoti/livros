@@ -10,7 +10,7 @@ function criar(){
     var idioma = document.getElementById("idioma").value
     var paginas = document.getElementById("paginas").value
 
-    fetch('http://localhost:3000/livros',{
+    fetch('livros',{
         method: "POST",
 
         headers: {
