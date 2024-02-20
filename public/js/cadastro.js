@@ -49,7 +49,7 @@ function fazerLogin(){
 
 
             if(pessoa){
-                window.location.href = "livros.html";
+                window.location.href = "livross.html";
             }else{
                 alert("Cadastro não encontrado!");
             }
