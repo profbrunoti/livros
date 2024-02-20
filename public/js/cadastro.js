@@ -10,7 +10,7 @@ if(senha==confsenha){
 
 
     //Para envio dos dados para o servidor, utilizamos o método fetch
-    fetch('http://localhost:3000/pessoas',{
+    fetch('pessoas',{
         method: 'POST' ,
 
 
@@ -39,7 +39,7 @@ function fazerLogin(){
     const email = document.getElementById("email").value;
     const senha = document.getElementById("senha").value;
 
-    fetch('http://localhost:3000/pessoas/')
+    fetch('pessoas/')
     .then(response => response.json())
     .then(data =>{
         
