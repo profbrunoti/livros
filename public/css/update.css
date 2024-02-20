@@ -1,0 +1,178 @@
+/* Cabeçalho*/
+body{
+    background-color: #e4beb5;
+}
+
+header{
+    background-color: #896155;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+  
+}
+.logo{
+    width: 170px;
+    margin-left: 80px;
+}
+h1{
+    font-size: 1.3em;
+    margin: 10px;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+}
+#a{
+    color: #ffffff;
+    text-align: center;
+    padding: 2px 7px;
+    margin: 2px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+#a:hover{
+    background-color: #afcef1;
+    color: #000000;
+    text-decoration: none;
+}
+
+.destaque {
+    background-color: #afcef1;
+    color:  #0f172b;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav{
+    display: flex;
+}
+/* Conteúdo*/
+
+main{
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+#h3{
+    color: #896155;
+}
+
+.container {
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f8edeb;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+#img{
+    width: 180px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#img1{
+    width: 900px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.hr{
+    border: 1px solid #5c1a06;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+input[type="text"],
+input[type="password"] {
+    /* width: 100%;
+    padding: 10px; */
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+input[type="submit"], button{
+    background-color: #afcef1;
+    color: #fff;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+button:hover  
+{
+    background-color: #896155;
+}
+
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+
+td, th {
+    border: 1px solid #afcef1;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #afcef1;
+  }
+
+  #a2{
+    color: #afcef1;
+  }
+  .bnt{
+    border-radius: 20px;
+}
+
+/* Rodapé*/
+footer{
+    background-color: #896155;
+    color: White;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    min-height: 25vh;
+    margin-top: 180px;
+    font-size:  14px;
+}
+
+footer div{
+    margin-top: 10px;
+}
+
+#links-rodape{
+    display: flex;
+    flex-direction: column;
+}
+h4{
+   color: #EDAC3D;
+}
+

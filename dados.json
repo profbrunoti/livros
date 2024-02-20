@@ -1,0 +1,157 @@
+{
+  "pessoas": [
+    {
+      "nome": "Gabriela",
+      "idade": "17",
+      "email": "gabi@gmail.com",
+      "senha": "0405",
+      "id": "1"
+    },
+    {
+      "nome": "Manuela",
+      "email": "manu@gmail.com",
+      "senha": "1234",
+      "id": "2"
+    },
+    {
+      "nome": "eduarda",
+      "email": "eduarda@gmail.com",
+      "senha": "0000",
+      "id": "3"
+    },
+    {
+      "nome": "marcelo",
+      "email": "mar@gmail.com",
+      "senha": "3333",
+      "id": "4"
+    },
+    {
+      "nome": "Eduarda",
+      "email": "edoduarda@gmai.com",
+      "senha": "duda123",
+      "id": "5"
+    },
+    {
+      "nome": "manuu",
+      "email": "manu123@gmail.com",
+      "senha": "1234",
+      "id": "6"
+    },
+    {
+      "nome": "mar",
+      "email": "mar@gmail.com",
+      "senha": "1234",
+      "id": "7"
+    },
+    {
+      "nome": "ze",
+      "email": "ze@gmail",
+      "senha": "11",
+      "id": "8"
+    },
+    {
+      "id": "47ba",
+      "nome": "Bruno",
+      "email": "bruno@bruno.com",
+      "senha": "123"
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Sadie",
+      "autor": "Courtney Summers",
+      "preco": "R$ 44,39",
+      "editora": "Plataforma 21",
+      "edicao": "1ª edição",
+      "categoria": "Crime Mistério Mistério, Thriller e Suspense",
+      "faixa": "15+",
+      "idioma": "Português",
+      "paginas": "392 páginas",
+      "id": "3"
+    },
+    {
+      "nome": "Jantar secreto",
+      "autor": "Raphael Montes",
+      "preco": "R$ 64,90",
+      "editora": "Companhia das Letras",
+      "edicao": "1ª edição",
+      "categoria": "Suspense Mistério Mistério, Thriller e Suspense",
+      "faixa": "14+",
+      "idioma": "Português",
+      "paginas": "368 páginas",
+      "id": "4"
+    },
+    {
+      "nome": "Uma Nova Chance",
+      "autor": "Tatiane Biasi",
+      "preco": "R$ 15,99",
+      "editora": "Intrinseca",
+      "edicao": "1ª edição",
+      "categoria": "Livros de Comédia Romântica",
+      "faixa": "18+",
+      "idioma": "Português",
+      "paginas": "693 páginas",
+      "id": "5"
+    },
+    {
+      "nome": "Quebrado",
+      "autor": "J. Júpiter",
+      "preco": "R$ 0,00 - K.U",
+      "editora": "-",
+      "edicao": "1° edição",
+      "categoria": "Romance ",
+      "faixa": "18+",
+      "idioma": "Português",
+      "paginas": "542 páginas",
+      "id": "7"
+    },
+    {
+      "nome": "Um Ano Solitário",
+      "autor": "Alise Oseman",
+      "preco": "R$ 44,13  ",
+      "editora": "Rocco",
+      "edicao": " 1ª edição",
+      "categoria": "Problemas Sociais e na Família",
+      "faixa": "13+",
+      "idioma": "Português",
+      "paginas": "385  Páginas",
+      "id": "8"
+    },
+    {
+      "nome": "A vida invisível de Addie LaRue",
+      "autor": "V.E. Schwab",
+      "preco": "R$ 52,89",
+      "editora": "Galera",
+      "edicao": "7ª edição",
+      "categoria": "Fantasia Contemporânea",
+      "faixa": "14+",
+      "idioma": "Português",
+      "paginas": "504 páginas",
+      "id": "9"
+    },
+    {
+      "nome": "Normal People: A Novel",
+      "autor": "Sally Rooney",
+      "preco": "R$ 71,10",
+      "editora": "Hogarth",
+      "edicao": "5ª edição",
+      "categoria": "Literatura e ficção em inglês",
+      "faixa": "16+",
+      "idioma": "Inglês",
+      "paginas": "279 páginas",
+      "id": "10"
+    },
+    {
+      "nome": "Tudo é Rio",
+      "autor": " Carla Madeira",
+      "preco": "R$ 43,12",
+      "editora": "Record",
+      "edicao": "10ª edição",
+      "categoria": "Ficção Literária",
+      "faixa": "16+",
+      "idioma": "Português",
+      "paginas": "210  Páginas",
+      "id": "11"
+    }
+  ]
+}
